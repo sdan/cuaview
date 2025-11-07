@@ -1,6 +1,8 @@
-# Archon Desktop
+# Cuaview
 
 macOS builds for computer control via vision models.
+
+> **Note:** Nov 7 release artifacts are labeled "Archon Desktop" — same product, renamed to Cuaview.
 
 ## Builds
 
