@@ -1,8 +1,8 @@
 # Ignore everything by default
 *
 
-# Allow README_release.md
-!README_release.md
+# Allow README.md
+!README.md
 
 # Allow .gitignore itself
 !.gitignore
