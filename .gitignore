@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allow README_release.md
+!README_release.md
+
+# Allow .gitignore itself
+!.gitignore
+
+# Exclude all release artifacts (will be in GitHub Releases)
+release/
