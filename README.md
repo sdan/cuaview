@@ -29,3 +29,10 @@ OPENROUTER_API_KEY=sk-or-...
 ```
 
 Restart after config changes.
+
+## Troubleshooting
+
+**"Cannot verify app is free of malware":**
+```bash
+xattr -cr /Applications/Archon\ Desktop.app
+```
